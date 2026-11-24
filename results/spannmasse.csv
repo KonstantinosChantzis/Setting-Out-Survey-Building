@@ -1,0 +1,7 @@
+Strecke;Art;Soll_m;Ist_m;Diff_mm;Status
+G1–G2;Seite;12,0;12,006;6,0;i. O.
+G2–G3;Seite;9,5;9,514;14,0;prüfen
+G3–G4;Seite;12,0;12,0;0,0;i. O.
+G4–G1;Seite;9,5;9,498;-2,0;i. O.
+G1–G3;Diagonale;15,306;15,317;11,0;prüfen
+G2–G4;Diagonale;15,306;15,305;-1,0;i. O.
